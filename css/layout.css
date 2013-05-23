@@ -14,7 +14,7 @@ h3 time { font-size: 75%; }
 .inline-ellipsis [class*="span"], [itemprop="streetAddress"] { font-size:85%; }
 .inline-ellipsis [class*="span"] { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 figure { margin:0; }
-figcaption { visibility: hidden; font-weight: bold; font-size: 115%; }
+figcaption { font-weight: bold; font-size: 115%; }
 footer { display:block; background:#049cbd; color:white; margin-top: 75px; padding-top: 25px; }
 footer a { color: white; }
 [role="copyrights"] { font-size: 75%; }
